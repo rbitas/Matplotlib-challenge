@@ -1,7 +1,7 @@
 # Matplotlib-challenge
 DataViz bootcamp homework: Pymaceuticals
 
-note: for the function of .dropdupilcates that I used in my code, I went this website: https://www.geeksforgeeks.org/python-pandas-dataframe-drop_duplicates/ that explains how to use it 
+note: for the function of .drop_dupilcates that I used in my code, I went this website: https://www.geeksforgeeks.org/python-pandas-dataframe-drop_duplicates/ that explains how to use it 
 
 Background:
 
